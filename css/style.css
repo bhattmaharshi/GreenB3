@@ -1,0 +1,78 @@
+.parentbox1{
+    width: 995px;
+    height: auto;
+}
+
+header{
+    width: 995px;
+    height: 70px;
+    background:green;
+}
+
+section{
+    width: 995px;
+    height: 500px;
+    background: #7cc576;
+}
+.sect2{
+    background: white;
+    width: 995px;
+    height: 490px;
+
+}
+
+.box1{
+    float: left;
+    width: 325px;
+    height: 235px;
+    margin: 5px;
+    background: green;
+    
+}
+
+.box2{
+    float: left;
+    width: 325px;
+    height: 235px;
+    margin: 5px;
+    background: green;
+    
+}
+
+.box3{
+    float: left;
+    width: 325px;
+    height: 235px;
+    margin: 5px;
+    background: green;
+   
+}
+.box4{
+    float: left;
+    width: 325px;
+    height: 235px;
+    margin: 5px;
+    background: green;
+    
+}
+.box5{
+    float: right;
+    width: 320px;
+    height: 234px;
+    margin-top: -239px;
+    background: green;
+}
+.box6{
+    float: right;
+    width: 320px;
+    height: 236px;
+    margin-top:4px;
+    background: green;
+}
+footer{
+    margin-top: 4px;
+    width: 995px;
+    height: 150px;
+    background: green;
+}
+
